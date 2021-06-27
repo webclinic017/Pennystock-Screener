@@ -1,0 +1,56 @@
+,quote
+avgTotalVolume,1266486
+calculationPrice,close
+change,-16.07
+changePercent,-0.00636
+close,2511.35
+closeSource,official
+closeTime,1624046400648
+companyName,Alphabet Inc - Class C
+delayedPrice,2511.35
+delayedPriceTime,1624046399441
+extendedChange,-2.48
+extendedChangePercent,-0.00099
+extendedPrice,2508.87
+extendedPriceTime,1624060773755
+high,2527.78
+highSource,15 minute delayed price
+highTime,1624046401876
+iexAskPrice,
+iexAskSize,
+iexBidPrice,
+iexBidSize,
+iexClose,2509.8
+iexCloseTime,1624046394572
+iexLastUpdated,
+iexMarketPercent,
+iexOpen,2513.28
+iexOpenTime,1624046359280
+iexRealtimePrice,
+iexRealtimeSize,
+iexVolume,
+isUSMarketOpen,False
+lastTradeTime,1624046399441
+latestPrice,2511.35
+latestSource,Close
+latestTime,"June 18, 2021"
+latestUpdate,1624046400648
+latestVolume,2665310
+low,2492.05
+lowSource,IEX real time price
+lowTime,1624030234795
+marketCap,1628279908511
+oddLotDelayedPrice,2511.35
+oddLotDelayedPriceTime,1624046399441
+open,2514.11
+openSource,official
+openTime,1624023000635
+peRatio,
+previousClose,2527.42
+previousVolume,1287791
+primaryExchange,NASDAQ/NGS (GLOBAL SELECT MARKET)
+symbol,GOOG
+volume,2665310
+week52High,2543.93
+week52Low,1347.01
+ytdChange,0.42715713587688636

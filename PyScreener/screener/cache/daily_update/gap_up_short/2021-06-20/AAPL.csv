@@ -1,0 +1,56 @@
+,quote
+avgTotalVolume,74743181
+calculationPrice,close
+change,-1.33
+changePercent,-0.01009
+close,130.46
+closeSource,official
+closeTime,1624046400461
+companyName,Apple Inc
+delayedPrice,130.43
+delayedPriceTime,1624046399582
+extendedChange,-0.26
+extendedChangePercent,-0.00199
+extendedPrice,130.2
+extendedPriceTime,1624060795252
+high,131.51
+highSource,15 minute delayed price
+highTime,1624046404743
+iexAskPrice,
+iexAskSize,
+iexBidPrice,
+iexBidSize,
+iexClose,130.41
+iexCloseTime,1624046397322
+iexLastUpdated,
+iexMarketPercent,
+iexOpen,130.41
+iexOpenTime,1624046397322
+iexRealtimePrice,
+iexRealtimeSize,
+iexVolume,
+isUSMarketOpen,False
+lastTradeTime,1624046399582
+latestPrice,130.46
+latestSource,Close
+latestTime,"June 18, 2021"
+latestUpdate,1624046400461
+latestVolume,108953237
+low,130.24
+lowSource,15 minute delayed price
+lowTime,1624046372471
+marketCap,2177068340260
+oddLotDelayedPrice,130.42
+oddLotDelayedPriceTime,1624046399901
+open,130.86
+openSource,official
+openTime,1624023002267
+peRatio,29.38
+previousClose,131.79
+previousVolume,96721669
+primaryExchange,NASDAQ/NGS (GLOBAL SELECT MARKET)
+symbol,AAPL
+volume,108953237
+week52High,144.63
+week52Low,87.2
+ytdChange,-0.023753997072594693
