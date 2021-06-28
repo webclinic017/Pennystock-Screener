@@ -4,4 +4,4 @@ This is a screener that scans for stocks based on market cap, public float, last
 
 The criteria for the patterns are based on Steven Dux's Duxinator and Tim Grittani's Trading Ticker. I am currently working on a graphical user interface for the screener and I intend to integrate it into a larger project that connects with a brokerage account for algorithmic trading.
 
-![Web 1920 – 1-2](https://user-images.githubusercontent.com/65748924/123617194-95a0a200-d839-11eb-9fb4-96b5742d5e06.png)
+![Web 1920 – 1-3](https://user-images.githubusercontent.com/65748924/123631112-f7b4d380-d848-11eb-9d4b-3fa574301979.png)
